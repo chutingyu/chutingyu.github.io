@@ -1,0 +1,20 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+{% include base_path %}
+
+I am very passionate about teaching! At the University of Queensland, I have TA'd for two core Master level Computer Science courses: 
+INFS7410: Information Retrieval and Web Search and INFS7202: Web Information Systems. I have served as the Head of TA 
+for INFS7202/3202 course, where I worked closely with the course coordinator <a href="https://researchers.uq.edu.au/researcher/14634" target="_blank">Dr. Tony Chen</a> to 
+design course syllabus and content. I also give guest lectures in INFS7410 course under the guidance of the course coordinator <a href="http://ielab.io/people/guido-zuccon" target="_blank">A/Prof. Guido Zuccon</a>.
+<br><br>
+I have also worked as a tutor at UQ resident halls, where I mentored students about COMP7702: Artificial Intelligence and INFS7410: Information Retrieval 
+and Web Search.
+
+{% for post in site.teaching reversed %}
+  {% include archive-single-teaching.html %}
+{% endfor %}

@@ -1,0 +1,22 @@
+{% include base_path %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+      
+      <h2 class="archive__item-title" itemprop="headline">
+          <a href="{{ base_path }}{{ post.paperurl }}" target="_blank">{{ post.title }}</a> 
+      </h2>
+
+      {{ post.authors }} <br>
+      {{ post.venue }} <br>
+      {% if post.award != '' %}
+        {{ post.award }} <br>
+      {% endif %}
+
+      [<a href=" {{ base_path }}{{ post.paperurl }} " target="_blank">Paper PDF</a>] 
+      {% if post.githuburl != '' %}
+        [<a href=" {{ post.githuburl }} " target="_blank">Github</a>]
+      {% endif %}
+
+  </article>
+</div>
