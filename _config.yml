@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chuting YU"
+title                    : "Chuting (Veronica) Yu"
 title_separator          : "-"
-name                     : &name "Chuting YU"
-description              : &description "Ph.D Student in IELab \n The University of Queensland, Australia"
+name                     : &name "Chuting (Veronica) Yu"
+description              : &description "MPhil Student in IELab \n The University of Queensland, Australia"
 url                      : https://chutingyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chutingyu/chutingyu.github.io"
@@ -89,14 +89,14 @@ author:
                     <a href='https://www.uq.edu.au/' target='_blank'>The University of Queensland</a> <br> <br>
                     <b>Research Interests</b>: <br> 
                     Information Retrieval <br>
-                    Medical Record Search <br>
+                    Large Language Models <br>
                     Natural Language Processing <br>
                     Machine Learning <br>
   location         : "Brisbane, QLD, Australia"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "https://scholar.google.com/citations?user=LS67b08AAAAJ&hl=en"
-  email            : "chuting.yu@uq.net.au"
+  googlescholar    : "https://scholar.google.com.au/citations?user=yhKNG0kAAAAJ&hl=en"
+  email            : "v.yu@uq.edu.au"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -105,7 +105,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "hanglics"
+  github           : "chutingyu"
   google_plus      :
   keybase          :
   instagram        :
@@ -118,7 +118,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            : 
   tumblr           :
-  twitter          : # "hanglics"
+  twitter          : "chuting_yu74807"
   vine             :
   weibo            :
   xing             :
