@@ -14,11 +14,13 @@ redirect_from:
 
 # About Me
 
-Chuting Yu (Veronica) is a PhD student at <a href="http://ielab.io/" target="_blank">IELab</a> in the <a href="https://eecs.uq.edu.au/" target="_blank">School of Electrical Engineering and Computer Science</a> at the <a href="https://www.uq.edu.au/" target="_blank">University of Queensland</a>, Australia, where she works closely with <a href="https://ielab.io/people/teerapong-leelanupab" target="_blank">Dr. Teerapong Leelanupab</a> and <a href="https://jmmackenzie.io" target="_blank">Dr. Joel Mackenzie</a>. Prior to MPhil, Chuting received her Bachelor of Science degree in <a href="https://www.nbt.edu.cn/" target="_blank">Information and Computing Science</a> at the Ningbo Institute of Technology (NIT) in China in 2020. After Bachelor's degree, Chuting went to the University of Queensland for a Master's degree in Software Engineering, she completed the study and awarded Master's degree in 2021.
+Chuting Yu (Veronica) is a PhD student at the <a href="http://ielab.io/" target="_blank">Information Engineering Lab (IELab)</a> in the <a href="https://eecs.uq.edu.au/" target="_blank">School of Electrical Engineering and Computer Science</a> at the <a href="https://www.uq.edu.au/" target="_blank">University of Queensland</a>, Australia, where she works closely with <a href="https://ielab.io/people/teerapong-leelanupab" target="_blank">Dr. Teerapong Leelanupab</a>, <a href="https://jmmackenzie.io" target="_blank">Dr. Joel Mackenzie</a>, and Professor Guido Zuccon.
 
-Chuting works at the intersection of **Information Retrieval**, **Natural Language Processing (NLP)**, and **Machine Learning (ML)** applications in the medical domain, where she utilises **different machine learning models** to empower the **search effectiveness**. Her recent work seeks to address the **gap** between **medical record search** and **deep language models**, through different approaches that helps to improve the search system effectiveness with **minimal efficiency cost**.
+Prior to commencing her PhD, Chuting received her Bachelor of Science in Information and Computing Science from <a href="https://www.nbt.edu.cn/" target="_blank">NingboTech University</a>, China, in 2020. She subsequently completed her Master's degree in Software Engineering at the University of Queensland in 2021.
 
-Chuting publishes at premier academic venues in IR (e.g. SIGIR, ECIR).
+Chuting's research focuses on **Information Retrieval (IR)**, particularly the use of **Large Language Models (LLMs)** for assessment and evaluation. Her work investigates the reliability, robustness, and consistency of LLM-based judgments. She is particularly interested in understanding the limitations of LLM-as-a-Judge approaches and developing more reliable and efficient LLM-based evaluation methods.
+
+Chuting publishes her research at leading international conferences in Information Retrieval, including SIGIR and ECIR.
 
 
 # News
