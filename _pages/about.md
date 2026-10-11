@@ -14,7 +14,7 @@ redirect_from:
 
 # About Me
 
-Chuting Yu (Veronica) is a PhD student at the <a href="http://ielab.io/" target="_blank">Information Engineering Lab (IELab)</a> in the <a href="https://eecs.uq.edu.au/" target="_blank">School of Electrical Engineering and Computer Science</a> at the <a href="https://www.uq.edu.au/" target="_blank">University of Queensland</a>, Australia, where she works closely with <a href="https://ielab.io/people/teerapong-leelanupab" target="_blank">Dr. Teerapong Leelanupab</a>, <a href="https://jmmackenzie.io" target="_blank">Dr. Joel Mackenzie</a>, and Professor Guido Zuccon.
+Chuting Yu (Veronica) is a PhD student at the <a href="http://ielab.io/" target="_blank">Information Engineering Lab (IELab)</a> in the <a href="https://eecs.uq.edu.au/" target="_blank">School of Electrical Engineering and Computer Science</a> at the <a href="https://www.uq.edu.au/" target="_blank">University of Queensland</a>, Australia, where she works closely with <a href="https://ielab.io/people/teerapong-leelanupab" target="_blank">Dr. Teerapong Leelanupab</a>, <a href="https://jmmackenzie.io" target="_blank">Dr. Joel Mackenzie</a>, and <a href="https://ielab.io/people/guido-zuccon.html" target="_blank">Professor Guido Zuccon</a>.
 
 Prior to commencing her PhD, Chuting received her Bachelor of Science in Information and Computing Science from <a href="https://www.nbt.edu.cn/" target="_blank">NingboTech University</a>, China, in 2020. She subsequently completed her Master's degree in Software Engineering at the University of Queensland in 2021.
 
@@ -49,9 +49,16 @@ Chuting publishes her research at leading international conferences in Informati
 
 # Recent Publications
 
-{% for post in site.publications reversed %}
-  {% capture pub_type %}{{ post.pub_type }}{% endcapture %}
-  {% if pub_type == "major_publication" %}
-    {% include archive-single-about.html %}
-  {% endif %}
+{% assign recent_publications = site.data.google_scholar_publications.publications %}
+{% for publication in recent_publications limit:3 %}
+<article class="archive__about" itemscope itemtype="http://schema.org/CreativeWork">
+  <h2 class="archive__about-title" itemprop="headline">
+    <a href="{{ publication.url }}" target="_blank" rel="noopener">{{ publication.title }}</a>
+  </h2>
+  {{ publication.authors }}<br>
+  {{ publication.venue }}<br>
+  {% if publication.citations > 0 %}Cited by {{ publication.citations }}{% endif %}
+</article>
 {% endfor %}
+
+<p><a href="{{ base_path }}/publications/">View all publications →</a></p>
