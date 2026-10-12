@@ -1,10 +1,15 @@
 ---
-title: "UQ: Information Retrieval and Web Search"
+title: "UQ: Information Retrieval and Web Search (INFS7410)"
 collection: teaching
 type: "Graduate Course"
-date: 2022-11-01
+date: 2026-07-01
 position: "Teaching Assistant"
-semester: "Spring 2022"
-course_page: "https://my.uq.edu.au/programs-courses/course.html?course_code=INFS7410"
-description: "This course discusses the theory, design, and implementation of Information Retrieval (IR) techniques in text-based information systems. The theoretical component of the course focuses on IR methods for the processing, indexing, querying, ranking, organisation, and classification of textual documents, including Web documents. A variety of current research topics are also covered, including professional search and recommendation systems. The practical component of the course addresses the design and implementation of high-capacity text retrieval and filtering systems such as web search engines. I TA'd this course with <a href='http://ielab.io/people/guido-zuccon' target='_blank'>A/Prof. Guido Zuccon</a>. My responsibilities included holding weekly tutorials and office hours, designing and grading assignments, projects, and exams."
+semester: "Semester 2, 2026"
+course_page: "https://course-profiles.uq.edu.au/course-profiles/INFS7410-61026-7660#course-overview"
+course_page_label: "INFS7410 Course Profile"
+description: >-
+  This course covers the theory, design, and implementation of Information Retrieval (IR) systems, including document indexing, query processing, ranking algorithms, web search, and recommendation systems.
+
+  <p><strong>My responsibilities included:</strong></p>
+  <p>Conducting tutorials, supporting students with practical exercises and assignments, and providing guidance on information retrieval techniques and applications.</p>
 ---
