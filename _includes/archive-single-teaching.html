@@ -10,7 +10,10 @@
       <i>{{ post.position }}, {{ post.semester }}</i> <br>
       {{ post.description }} <br>
 
-      [<a href=" {{ post.course_page }} " target="_blank">Course Homepage</a>]
+      [<a href="{{ post.course_page }}" target="_blank" rel="noopener">{{ post.course_page_label | default: "Course Homepage" }}</a>]
+      {% if post.course_page_secondary %}
+        [<a href="{{ post.course_page_secondary }}" target="_blank" rel="noopener">{{ post.course_page_secondary_label | default: "Course Homepage" }}</a>]
+      {% endif %}
 
   </article>
 </div>
