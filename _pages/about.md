@@ -40,8 +40,6 @@ Chuting publishes her research at leading international conferences in Informati
 
 * <b>2025-12-07 – 2025-12-10</b> <br> ✈️ Brisbane, Australia for SIGIR-AP 2025 (Brisbane Satellite Venue)
 
-* <b>2022-07-11 – 2022-07-15</b> <br> ✈️ Madrid, Spain for SIGIR 2022 (Attending Online)
-
 <details class="page__travel">
   <summary>MORE...</summary>
   <ul>
