@@ -52,7 +52,7 @@ Chuting publishes her research at leading international conferences in Informati
 # Recent Publications
 
 {% assign recent_publications = site.data.google_scholar_publications.publications %}
-{% for publication in recent_publications limit:3 %}
+{% for publication in recent_publications %}
 <article class="archive__about" itemscope itemtype="http://schema.org/CreativeWork">
   <h2 class="archive__about-title" itemprop="headline">
     <a href="{{ publication.url }}" target="_blank" rel="noopener">{{ publication.title }}</a>
