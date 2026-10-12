@@ -24,7 +24,7 @@ Chuting publishes her research at leading international conferences in Informati
 
 
 # News
-<b>2025-10-01</b> <br> 🏫 I am thrilled to announce that I will be joining <a href="http://ielab.io/" target="_blank">IELab</a> @ <a href="https://www.uq.edu.au/" target="_blank">UQ</a> as an MPhil student!
+<b>2025-10-01</b> <br> 🏫 I am thrilled to announce that I will be joining <a href="http://ielab.io/" target="_blank">IELab</a> @ <a href="https://www.uq.edu.au/" target="_blank">UQ</a> as a PhD student!
 <details class="page__news">
   <summary>MORE...</summary>
   <ul>
