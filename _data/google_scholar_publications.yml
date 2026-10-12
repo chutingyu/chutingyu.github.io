@@ -1,5 +1,5 @@
 profile_url: "https://scholar.google.com/citations?user=yhKNG0kAAAAJ&hl=en"
-updated_at: "2026-10-10 23:14 UTC"
+updated_at: "2026-10-12 05:29 UTC"
 publications:
   - title: "Whole-Pool Setwise Reranking with Long-Context Language Models"
     authors: "H Li, C Yu, T Leelanupab, B Koopman, G Zuccon"
@@ -11,8 +11,14 @@ publications:
     authors: "C Yu, H Li, G Zuccon, J Mackenzie, T Leelanupab"
     venue: "arXiv preprint arXiv:2602.17170, 2026"
     year: "2026"
-    citations: 7
+    citations: 8
     url: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yhKNG0kAAAAJ&pagesize=100&citation_for_view=yhKNG0kAAAAJ:d1gkVwhDpl0C"
+  - title: "The Impact of Backbone Evolution on LLM-Based Relevance Assessments"
+    authors: "C Yu, G Zuccon, T Leelanupab"
+    venue: "arXiv preprint arXiv:2610.09820, 2026"
+    year: "2026"
+    citations: 0
+    url: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yhKNG0kAAAAJ&pagesize=100&citation_for_view=yhKNG0kAAAAJ:IjCSPb-OGe4C"
   - title: "A Survey of Late-Interaction Neural Retrieval: Paradigms, Systems, and Research Frontiers"
     authors: "X Wang, C Yu, M Li, B Yang, H Li, B He"
     venue: "Systems, and Research Frontiers, 2026"
