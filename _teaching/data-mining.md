@@ -14,9 +14,9 @@ description: >-
 
   <p><strong>My responsibilities include:</strong></p>
   <ul>
-    <li>Conducting tutorials and practical sessions.</li>
-    <li>Guiding students through data mining algorithms and machine learning techniques.</li>
-    <li>Providing support for programming assignments and projects.</li>
-    <li>Assisting with project evaluation, presentations, and code interviews.</li>
+    <li>I conduct tutorials and practical sessions.</li>
+    <li>I guide students through data mining algorithms and machine learning techniques.</li>
+    <li>I provide support for programming assignments and projects.</li>
+    <li>I assist with project evaluation, presentations, and code interviews.</li>
   </ul>
 ---
