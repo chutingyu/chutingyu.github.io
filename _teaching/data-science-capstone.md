@@ -12,6 +12,5 @@ course_page_secondary_label: "DATA7902 Course Profile"
 description: >-
   These courses focus on the design and execution of real-world data science projects sourced from academia, industry, and government. Building on foundational knowledge acquired in courses such as DATA7001 and DATA7002, students apply their technical, analytical, and problem-solving skills to address practical data science challenges. The courses cover the entire research process, from problem formulation and research proposal development to project implementation, evaluation, and the communication of findings through written reports and presentations.
 
-  <p><strong>My responsibilities included:</strong></p>
   <p>I supervised and mentored students throughout their capstone projects, provided guidance on research design, methodology, and technical implementation, monitored project progress, and offered feedback on research proposals, final theses, and project presentations.</p>
 ---

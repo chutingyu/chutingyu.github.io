@@ -10,6 +10,5 @@ course_page_label: "INFS7410 Course Profile"
 description: >-
   This course covers the theory, design, and implementation of Information Retrieval (IR) systems, including document indexing, query processing, ranking algorithms, web search, and recommendation systems.
 
-  <p><strong>My responsibilities included:</strong></p>
   <p>I conducted tutorials, supported students with practical exercises and assignments, and provided guidance on information retrieval techniques and applications.</p>
 ---
