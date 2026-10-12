@@ -22,30 +22,11 @@ Chuting's research focuses on **Information Retrieval (IR)**, particularly the u
 
 Chuting publishes her research at leading international conferences in Information Retrieval, including SIGIR and ECIR.
 
-
-# News
-<b>2025-10-01</b> <br> 🏫 I am thrilled to announce that I will be joining <a href="http://ielab.io/" target="_blank">IELab</a> @ <a href="https://www.uq.edu.au/" target="_blank">UQ</a> as a PhD student!
-<details class="page__news">
-  <summary>MORE...</summary>
-  <ul>
-    <li>...</li>
-  </ul>
-</details>
-
-<br>
-
 # Travel
 
 * <b>2026-07-20 – 2026-07-24</b> <br> ✈️ Melbourne, Australia for SIGIR 2026
 
 * <b>2025-12-07 – 2025-12-10</b> <br> ✈️ Brisbane, Australia for SIGIR-AP 2025 (Brisbane Satellite Venue)
-
-<details class="page__travel">
-  <summary>MORE...</summary>
-  <ul>
-    <li>...</li>
-  </ul>
-</details>
 
 <br>
 
